@@ -1,6 +1,6 @@
 # Grid-Web
 
-Hey, it's your friendly dev! 🚀 Welcome to the Non-Profit Organization web page, designed to showcase our mission, values, and services in a clean and engaging manner. Let's make a difference together! 🌍💖
+Hey, it's your friendly dev! 🚀 Welcome to the Grid web page, designed to showcase our mission, values, and services in a clean and engaging manner. Let's make a difference together! 🌍💖
 
 ## ✨ Features
 ✔ **Hero Section** – Displays the organization's mission and call-to-action buttons (Donate Now, Join Us).
